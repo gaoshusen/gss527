@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - youku@localhost" uuid="dc845567-6d82-4a9b-9b3e-87ed71844725">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>youku.*</schema-pattern>
+      <default-schemas>youku.*</default-schemas>
+    </data-source>
+    <data-source name="电话" uuid="fe8a9fe7-164f-4930-9d65-901f3f83f81b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>meishi.*</schema-pattern>
+      <default-schemas>meishi.*</default-schemas>
+    </data-source>
+  </component>
+</project>

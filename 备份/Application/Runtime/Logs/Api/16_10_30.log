@@ -1,0 +1,11 @@
+[ 2016-10-30T20:27:48+08:00 ] 127.0.0.1 /index.php/Api/Index/express
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009952s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001565s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001615s ]
+
